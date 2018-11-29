@@ -1,0 +1,132 @@
+C:\Users\vina\source\repos\pruebas\webpruebas\bin\webpruebas.dll.config
+C:\Users\vina\source\repos\pruebas\webpruebas\bin\webpruebas.dll
+C:\Users\vina\source\repos\pruebas\webpruebas\bin\webpruebas.pdb
+C:\Users\vina\source\repos\pruebas\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vina\source\repos\pruebas\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vina\source\repos\pruebas\webpruebas\obj\Debug\webpruebas.csprojResolveAssemblyReference.cache
+C:\Users\vina\source\repos\pruebas\webpruebas\obj\Debug\webpruebas.csproj.CoreCompileInputs.cache
+C:\Users\vina\source\repos\pruebas\webpruebas\obj\Debug\webpruebas.dll
+C:\Users\vina\source\repos\pruebas\webpruebas\obj\Debug\webpruebas.pdb
+E:\proyecto\pruebas\webpruebas\bin\webpruebas.dll.config
+E:\proyecto\pruebas\webpruebas\bin\webpruebas.dll
+E:\proyecto\pruebas\webpruebas\bin\webpruebas.pdb
+E:\proyecto\pruebas\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\proyecto\pruebas\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\proyecto\pruebas\webpruebas\obj\Debug\webpruebas.csprojResolveAssemblyReference.cache
+E:\proyecto\pruebas\webpruebas\obj\Debug\webpruebas.csproj.CoreCompileInputs.cache
+E:\proyecto\pruebas\webpruebas\obj\Debug\webpruebas.dll
+E:\proyecto\pruebas\webpruebas\obj\Debug\webpruebas.pdb
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\bin\webpruebas.dll.config
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\bin\webpruebas.dll
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\bin\webpruebas.pdb
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\obj\Debug\webpruebas.csprojAssemblyReference.cache
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\obj\Debug\webpruebas.csproj.CoreCompileInputs.cache
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\obj\Debug\webpruebas.csproj.CopyComplete
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\obj\Debug\webpruebas.dll
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\obj\Debug\webpruebas.pdb
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\bin\EntityFramework.dll
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\bin\EntityFramework.xml
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\webpruebas\bin\Oracle.DataAccess.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\webpruebas.dll.config
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\webpruebas.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\webpruebas.pdb
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\EntityFramework.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\Negocio.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\Oracle.DataAccess.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\Negocio.pdb
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\Negocio.dll.config
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\EntityFramework.xml
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.csprojAssemblyReference.cache
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.csproj.CoreCompileInputs.cache
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.csproj.CopyComplete
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.pdb
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\DALC.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\DALC.pdb
+C:\Users\Jo\Downloads\WebVistaHermosa\webpruebas\bin\DALC.dll.config
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\webpruebas.dll.config
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\webpruebas.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\webpruebas.pdb
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\DALC.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\EntityFramework.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\Negocio.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\Oracle.DataAccess.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\Oracle.ManagedDataAccess.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\DALC.pdb
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\DALC.dll.config
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\Negocio.pdb
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\Negocio.dll.config
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\EntityFramework.xml
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.csprojAssemblyReference.cache
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.csproj.CoreCompileInputs.cache
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.csproj.CopyComplete
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.pdb
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\webpruebas.dll.config
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\webpruebas.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\webpruebas.pdb
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\DALC.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\EntityFramework.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Negocio.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Oracle.DataAccess.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Oracle.ManagedDataAccess.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\DALC.pdb
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\DALC.dll.config
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Negocio.pdb
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Negocio.dll.config
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\EntityFramework.xml
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.csprojAssemblyReference.cache
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.csproj.CoreCompileInputs.cache
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.csproj.CopyComplete
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.pdb
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\BouncyCastle.Crypto.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Common.Logging.Core.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Common.Logging.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\BouncyCastle.Crypto.xml
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Common.Logging.pdb
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Common.Logging.xml
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Common.Logging.Core.pdb
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\Common.Logging.Core.xml
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\itextsharp.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\webpruebas\bin\itextsharp.xml
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\webpruebas.dll.config
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\webpruebas.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\webpruebas.pdb
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\BouncyCastle.Crypto.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Common.Logging.Core.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Common.Logging.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\DALC.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\EntityFramework.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\itextsharp.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Negocio.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Oracle.DataAccess.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\DALC.pdb
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\DALC.dll.config
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Negocio.pdb
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Negocio.dll.config
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\BouncyCastle.Crypto.xml
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Common.Logging.pdb
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Common.Logging.xml
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Common.Logging.Core.pdb
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Common.Logging.Core.xml
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\EntityFramework.xml
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\itextsharp.xml
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.csproj.CopyComplete
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\webpruebas\obj\Debug\webpruebas.pdb

@@ -1,0 +1,70 @@
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\bin\Debug\Negocio.dll
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\bin\Debug\DALCvistahermosa.dll
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\bin\Debug\DALCvistahermosa.pdb
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\bin\Debug\DALCvistahermosa.dll.config
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\obj\Debug\Negocio.dll
+C:\Users\Jo\Downloads\pruebas bootstrap\proyecto\pruebas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\bin\Debug\Negocio.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\obj\Debug\Negocio.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\bin\Debug\DALC.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\bin\Debug\DALC.pdb
+C:\Users\Jo\Downloads\WebVistaHermosa\Negocio\bin\Debug\DALC.dll.config
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\bin\Debug\Negocio.dll.config
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\bin\Debug\Negocio.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\bin\Debug\Negocio.pdb
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\bin\Debug\DALC.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\bin\Debug\EntityFramework.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\bin\Debug\DALC.pdb
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\bin\Debug\DALC.dll.config
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\bin\Debug\EntityFramework.xml
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\obj\Debug\Negocio.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\Negocio\obj\Debug\Negocio.pdb
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\bin\Debug\Negocio.dll.config
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\bin\Debug\Negocio.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\bin\Debug\Negocio.pdb
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\bin\Debug\DALC.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\bin\Debug\EntityFramework.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\bin\Debug\DALC.pdb
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\bin\Debug\DALC.dll.config
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\bin\Debug\EntityFramework.xml
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\obj\Debug\Negocio.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\bin\Debug\Negocio.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\bin\Debug\DALC.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\bin\Debug\DALC.pdb
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\bin\Debug\DALC.dll.config
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\obj\Debug\Negocio.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\Negocio\obj\Debug\Negocio.pdb

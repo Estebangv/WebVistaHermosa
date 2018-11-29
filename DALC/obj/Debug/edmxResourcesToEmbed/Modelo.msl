@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModeloStoreContainer" CdmEntityContainer="Entidades">
+    <EntitySetMapping Name="MOTIVO">
+      <EntityTypeMapping TypeName="Modelo.MOTIVO">
+        <MappingFragment StoreEntitySet="MOTIVO">
+          <ScalarProperty Name="ID_MOTIVO" ColumnName="ID_MOTIVO" />
+          <ScalarProperty Name="NOMBREMOTIVO" ColumnName="NOMBREMOTIVO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PERMISO">
+      <EntityTypeMapping TypeName="Modelo.PERMISO">
+        <MappingFragment StoreEntitySet="PERMISO">
+          <ScalarProperty Name="ID_PERMISO" ColumnName="ID_PERMISO" />
+          <ScalarProperty Name="ID_MOTIVO" ColumnName="ID_MOTIVO" />
+          <ScalarProperty Name="ID_TIPOPERMISO" ColumnName="ID_TIPOPERMISO" />
+          <ScalarProperty Name="ID_USUARIO" ColumnName="ID_USUARIO" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RESOLUCION">
+      <EntityTypeMapping TypeName="Modelo.RESOLUCION">
+        <MappingFragment StoreEntitySet="RESOLUCION">
+          <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+          <ScalarProperty Name="ID_RESOLUCION" ColumnName="ID_RESOLUCION" />
+          <ScalarProperty Name="ID_SOLICITUD" ColumnName="ID_SOLICITUD" />
+          <ScalarProperty Name="FECHA_RESOLUCION" ColumnName="FECHA_RESOLUCION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SOLICITUD">
+      <EntityTypeMapping TypeName="Modelo.SOLICITUD">
+        <MappingFragment StoreEntitySet="SOLICITUD">
+          <ScalarProperty Name="ID_SOLICITUD" ColumnName="ID_SOLICITUD" />
+          <ScalarProperty Name="ID_PERMISO" ColumnName="ID_PERMISO" />
+          <ScalarProperty Name="ESTADO" ColumnName="ESTADO" />
+          <ScalarProperty Name="FECHA_SOLICITUD" ColumnName="FECHA_SOLICITUD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TIPO_PERMISO">
+      <EntityTypeMapping TypeName="Modelo.TIPO_PERMISO">
+        <MappingFragment StoreEntitySet="TIPO_PERMISO">
+          <ScalarProperty Name="ID_TIPOPERMISO" ColumnName="ID_TIPOPERMISO" />
+          <ScalarProperty Name="NOMBREPERMISO" ColumnName="NOMBREPERMISO" />
+          <ScalarProperty Name="DIAS" ColumnName="DIAS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TIPO_USUARIO">
+      <EntityTypeMapping TypeName="Modelo.TIPO_USUARIO">
+        <MappingFragment StoreEntitySet="TIPO_USUARIO">
+          <ScalarProperty Name="ID_TIPOUSUARIO" ColumnName="ID_TIPOUSUARIO" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UNIDAD">
+      <EntityTypeMapping TypeName="Modelo.UNIDAD">
+        <MappingFragment StoreEntitySet="UNIDAD">
+          <ScalarProperty Name="ID_UNIDAD" ColumnName="ID_UNIDAD" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USUARIO">
+      <EntityTypeMapping TypeName="Modelo.USUARIO">
+        <MappingFragment StoreEntitySet="USUARIO">
+          <ScalarProperty Name="DIAS" ColumnName="DIAS" />
+          <ScalarProperty Name="RUT" ColumnName="RUT" />
+          <ScalarProperty Name="PASS" ColumnName="PASS" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="A_PATERNO" ColumnName="A_PATERNO" />
+          <ScalarProperty Name="A_MATERNO" ColumnName="A_MATERNO" />
+          <ScalarProperty Name="FECHA_INGRESO" ColumnName="FECHA_INGRESO" />
+          <ScalarProperty Name="MAIL" ColumnName="MAIL" />
+          <ScalarProperty Name="FONO" ColumnName="FONO" />
+          <ScalarProperty Name="HABILITADO" ColumnName="HABILITADO" />
+          <ScalarProperty Name="NACIONALIDAD" ColumnName="NACIONALIDAD" />
+          <ScalarProperty Name="ID_TIPOUSUARIO" ColumnName="ID_TIPOUSUARIO" />
+          <ScalarProperty Name="ID_UNIDAD" ColumnName="ID_UNIDAD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="PKG_MODIFICAR_ESTADO" FunctionName="Modelo.Store.PKG_SOLICITUD_MODIFICAR_SOLICITUD_ESTADO" />
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,48 @@
+C:\Users\Jo\Downloads\WebVistaHermosa\DALC\bin\Debug\DALC.dll.config
+C:\Users\Jo\Downloads\WebVistaHermosa\DALC\bin\Debug\DALC.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\DALC\bin\Debug\DALC.pdb
+C:\Users\Jo\Downloads\WebVistaHermosa\DALC\bin\Debug\EntityFramework.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\DALC\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\DALC\bin\Debug\EntityFramework.xml
+C:\Users\Jo\Downloads\WebVistaHermosa\DALC\obj\Debug\DALC.csproj.CoreCompileInputs.cache
+C:\Users\Jo\Downloads\WebVistaHermosa\DALC\obj\Debug\DALC.csproj.CopyComplete
+C:\Users\Jo\Downloads\WebVistaHermosa\DALC\obj\Debug\DALC.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\DALC\obj\Debug\DALC.pdb
+C:\Users\Jo\Downloads\WebVistaHermosa\DALC\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Jo\Downloads\WebVistaHermosa\DALC\obj\Debug\DALC.csprojAssemblyReference.cache
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\DALC\bin\Debug\DALC.dll.config
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\DALC\bin\Debug\DALC.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\DALC\bin\Debug\DALC.pdb
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\DALC\bin\Debug\EntityFramework.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\DALC\bin\Debug\Oracle.DataAccess.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\DALC\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\DALC\bin\Debug\EntityFramework.xml
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\DALC\obj\Debug\DALC.csprojAssemblyReference.cache
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\DALC\obj\Debug\DALC.csproj.CoreCompileInputs.cache
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\DALC\obj\Debug\DALC.csproj.CopyComplete
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\DALC\obj\Debug\DALC.dll
+D:\Portafolio\iteracion 02\Programacion\WebVistaHermosa\DALC\obj\Debug\DALC.pdb
+D:\Portafolio\iteracion 03\WebVistaHermosa\DALC\bin\Debug\DALC.dll.config
+D:\Portafolio\iteracion 03\WebVistaHermosa\DALC\bin\Debug\DALC.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\DALC\bin\Debug\DALC.pdb
+D:\Portafolio\iteracion 03\WebVistaHermosa\DALC\bin\Debug\EntityFramework.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\DALC\bin\Debug\Oracle.DataAccess.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\DALC\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\DALC\bin\Debug\EntityFramework.xml
+D:\Portafolio\iteracion 03\WebVistaHermosa\DALC\obj\Debug\DALC.csprojAssemblyReference.cache
+D:\Portafolio\iteracion 03\WebVistaHermosa\DALC\obj\Debug\DALC.csproj.CoreCompileInputs.cache
+D:\Portafolio\iteracion 03\WebVistaHermosa\DALC\obj\Debug\DALC.csproj.CopyComplete
+D:\Portafolio\iteracion 03\WebVistaHermosa\DALC\obj\Debug\DALC.dll
+D:\Portafolio\iteracion 03\WebVistaHermosa\DALC\obj\Debug\DALC.pdb
+C:\Users\Esteban\Desktop\WebVistaHermosa\DALC\bin\Debug\DALC.dll.config
+C:\Users\Esteban\Desktop\WebVistaHermosa\DALC\bin\Debug\DALC.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\DALC\bin\Debug\DALC.pdb
+C:\Users\Esteban\Desktop\WebVistaHermosa\DALC\bin\Debug\EntityFramework.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\DALC\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\DALC\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\DALC\bin\Debug\EntityFramework.xml
+C:\Users\Esteban\Desktop\WebVistaHermosa\DALC\obj\Debug\DALC.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\WebVistaHermosa\DALC\obj\Debug\DALC.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\WebVistaHermosa\DALC\obj\Debug\DALC.csproj.CopyComplete
+C:\Users\Esteban\Desktop\WebVistaHermosa\DALC\obj\Debug\DALC.dll
+C:\Users\Esteban\Desktop\WebVistaHermosa\DALC\obj\Debug\DALC.pdb

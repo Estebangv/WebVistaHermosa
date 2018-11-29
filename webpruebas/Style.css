@@ -1,0 +1,31 @@
+﻿.contenedor {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+.encabezado {
+    background-color:green;
+    color: white;
+    text-align: left;
+    position: relative;
+    top: 0; /* Posicionamos la cabecera pegada arriba */
+    width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
+    left: 0; /* Posicionamos la cabecera al lado izquierdo */
+}
+
+.bodyCen {
+    width: 100%;
+    float:left;
+    position:fixed;
+    height:100%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0; /* Posicionamos la cabecera pegada abajo */
+    width: 100%;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
